@@ -1,7 +1,7 @@
 //imports
 const sequelize = require("./db") 
 const express = require("express")
-const exphbs = require('/express-handlebars')
+const exphbs = require('express-handlebars')
 
 require('./Livro') //registrar a model
 
